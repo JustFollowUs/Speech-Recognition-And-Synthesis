@@ -11,7 +11,7 @@
  - [专业课程中级](#special_median)
  
 - [推荐书籍列表](#booklists)
-- [机器学习专项领域学习](#special_learning)
+- [语音识别与合成专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
    我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
@@ -66,7 +66,6 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 
 ###<h3 id="math_median">数学基础中级以及机器学习知识补充</h3>
     考虑当前很多的语音识别技术等都涉及较多的机器学习方法，所以我们要求至少得完成一门中等水准的机器学习课程，此处推荐NTU的机器学习课程，**NTU的“机器学习基石”和“机器学习技法”需同时完成。**，如果对其他机器学习感兴趣的话，可以取[Machine Learning](https://github.com/JustFollowUs/Machine-Learning)专栏上去寻找。而基本的凸优化能够帮助我们更好的了解机器学习知识，也是很多机器学习算法推导的一个基本工具。
-   
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
