@@ -102,8 +102,9 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 ###<h3 id="special_learning_data">领域会议期刊</h3>
 - [ACL](https://www.aclweb.org/website/)
 - [EACL](http://www.eacl.org/page.php?id=index)
-- [EMNLP]
-- [NAACL]
+- [EMNLP](https://www.aclweb.org/website/emnlp)
+- [NAACL](http://naacl.org/)
+- [CoNLL](http://www.conll.org/)
 - 其他(尚未完善)
 
 
