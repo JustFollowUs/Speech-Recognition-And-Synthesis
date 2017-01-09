@@ -66,6 +66,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 
 ###<h3 id="math_median">数学基础中级以及机器学习知识补充</h3>
     考虑当前很多的语音识别技术等都涉及较多的机器学习方法，所以我们要求至少得完成一门中等水准的机器学习课程，此处推荐NTU的机器学习课程，**NTU的“机器学习基石”和“机器学习技法”需同时完成。**，如果对其他机器学习感兴趣的话，可以取[Machine Learning](https://github.com/JustFollowUs/Machine-Learning)专栏上去寻找。而基本的凸优化能够帮助我们更好的了解机器学习知识，也是很多机器学习算法推导的一个基本工具。
+    
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
