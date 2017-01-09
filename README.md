@@ -26,6 +26,7 @@
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
+[机器学习入门](https://www.coursera.org/learn/machine-learning) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/machine-learning)
 从语言到信息 | Stanford | 暂无 | [链接](http://web.stanford.edu/class/cs124/)
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html) 
 [机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
@@ -73,7 +74,6 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 
 ###<h3 id="special_median">专业课程中级</h3>
-   
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [用深度学习处理自然语言处理](https://www.youtube.com/watch?v=kZteabVD8sU&index=1&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_) | Stanford | 暂无  | [链接](http://cs224d.stanford.edu/syllabus.html)
