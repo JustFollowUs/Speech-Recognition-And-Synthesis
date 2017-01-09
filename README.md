@@ -100,6 +100,10 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 - [语音识别处理](https://github.com/edobashira/speech-language-processing)
 
 ###<h3 id="special_learning_data">领域会议期刊</h3>
+- [ACL](https://www.aclweb.org/website/)
+- [EACL](http://www.eacl.org/page.php?id=index)
+- [EMNLP]
+- [NAACL]
 - 其他(尚未完善)
 
 
