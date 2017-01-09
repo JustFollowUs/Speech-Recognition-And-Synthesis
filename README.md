@@ -92,7 +92,8 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [Fundamentals of Speech Recognition](https://www.amazon.com/Fundamentals-Speech-Recognition-Lawrence-Rabiner/dp/0130151572) | 一般
 [Speech and Language Processing (2nd Edition)](https://www.pearsonhighered.com/program/Jurafsky-Speech-and-Language-Processing-2nd-Edition/PGM181706.html) | 较难
 [Spoken Language Processing: A Guide to Theory, Algorithm and System Development](https://www.amazon.com/Spoken-Language-Processing-Algorithm-Development/dp/0130226165) | 较难
-##<h3 id="special_learning">机器学习专项领域学习</h3>
+
+##<h3 id="special_learning">语音识别和融合专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的机器学习基础了，已经是一名合格的语音处理识别的成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
 
 ###<h3 id="special_learning_data">一些专项领域资料</h3>
